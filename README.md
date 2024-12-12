@@ -86,6 +86,9 @@ https://book-management-eight-henna.vercel.app
 
 ---
 
+![Detail Image](https://raw.githubusercontent.com/hyemin-1107/book-management/refs/heads/main/public/images/detail.png)
+---
+
 ### 📖 구현 과정
 
 목업 데이터를 활용하여 데이터를 구성했습니다. 

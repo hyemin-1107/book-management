@@ -82,7 +82,7 @@ https://book-management-eight-henna.vercel.app
 - **도서 목록이 정렬되어 있고 상단에 검색 기능이 있습니다.**
 - **모달 창을 열면 각 도서의 상세 정보와 수량 조절 기능이 있습니다.**
 
-**이미지**
+![Main Image](https://raw.githubusercontent.com/hyemin-1107/book-management/main/public/image/main.png)
 
 
 ---
